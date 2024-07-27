@@ -170,8 +170,8 @@ export const experiences = [
 export const socialLinks = [
     {
         name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
+        iconUrl: starbucks,
+        link: 'https://www.upwork.com/freelancers/~012919225891c90abe',
     },
     {
         name: 'GitHub',
