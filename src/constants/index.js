@@ -117,10 +117,10 @@ export const experiences = [
         iconBg: "#accbe1",
         date: "March 2022 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Developed the front-end using React.js, focusing on dynamic data visualization with Chart.js.",
+            "Created the back-end server with Node.js and Express.js, handling data aggregation and API integration.",
+            "Connected to the Google Analytics API to fetch and display social media metrics.",
+            "Utilized MySQL to store historical data for trend analysis and reporting.",
         ],
     },
     {
@@ -130,10 +130,10 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "Jan 2020 - Feb 2022",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Performed coding, debugging, and unit testing tasks in support of projects.",
+            "Provided ongoing maintenance for assigned applications and systems. ",
+            "Applied current programming standards and methodologies to all relevant projects and activities.",
+            "Developed scalable web-based user interfaces and components using Angular, C# and .NET core. ",
         ],
     },
     {
@@ -156,10 +156,13 @@ export const experiences = [
         iconBg: "#a2d2ff",
         date: "Oct 2014 - Jan 2019",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Collaborated with a team of engineers, developers, and analysts to design and create leading hiring software",
+            "Developed and designed front end web architecture with high responsiveness of applications",
+            "Worked with other departments to address improvements, internal tools, and implementation issues.",
+            "Consistently applied best practices for writing clean, secure, readable, and scalable code. .",
+            "Participated in meaningful and thorough code reviews.", 
+            "Hired, trained, and led a successful team of eight full stack developers.", 
+            "Helped to increase company revenue by 40 percent between 2014-2018.",
         ],
     },
 ];
